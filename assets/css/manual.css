@@ -403,6 +403,7 @@ iframe{
 
 .logo {
     position: relative;
+    height: inherit;
 }
 
 .navbar-right {
