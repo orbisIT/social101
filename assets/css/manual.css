@@ -1000,7 +1000,7 @@ footer:-ms-input-placeholder {
 }
 
 .images-text a:hover{
-    color:#f00000;
+    color:#110a38;
 }
 
 .images-text h2 {
@@ -1204,12 +1204,12 @@ a.white:active {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background-color: rgba(242,0,0, 0.8);
+    background-color: rgb(10, 8, 99);
     padding: 5.5% 4.5%;
 }
 
 .main-container-4 .img-link span:hover i.icon-eye{
-    background-color: rgba(242,0,0, 1);
+    background-color: rgb(10, 8, 99);
     -webkit-transition: background-color 2s ease;
     -moz-transition: background-color 2s ease;
     -o-transition: background-color 2s ease;
@@ -1440,12 +1440,12 @@ a.white:active {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background-color: rgba(242,0,0, 0.8);
+    background-color: rgb(10, 8, 99);
     padding: 4.5% 3.5%;
 }
 
 .main-container-7 .img-link span:hover i.icon-eye{
-    background-color: rgba(242,0,0, 1);
+    background-color: rgb(10, 8, 99);
     -webkit-transition: background-color 2s ease;
     -moz-transition: background-color 2s ease;
     -o-transition: background-color 2s ease;
@@ -1534,12 +1534,12 @@ a.white:active {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background-color: rgba(242,0,0, 0.8);
+    background-color: #1d3d67;;
     padding: 5% 6% 7%;
 }
 
 .photo-container .img-link span:hover i.icon-eye{
-    background-color: rgba(242,0,0, 1);
+    background-color: #1d3d67;
     -webkit-transition: background-color 2s ease;
     -moz-transition: background-color 2s ease;
     -o-transition: background-color 2s ease;
@@ -2670,7 +2670,7 @@ table{
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background-color: rgba(242,0,0, 0.8);
+    background-color: #1d3d67;;
     padding: 3% 6% 8%;
 }
 
@@ -3217,12 +3217,12 @@ p.about-author-paragraph:hover a{
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background-color: rgba(242,0,0, 0.8);
+    background-color: #1d3d67;;
     padding: 5.5% 4.5%;
 }
 
 .also-like .img-link span:hover i.icon-eye{
-    background-color: rgba(242,0,0, 1);
+    background-color: #1d3d67;
     -webkit-transition: background-color 2s ease;
     -moz-transition: background-color 2s ease;
     -o-transition: background-color 2s ease;
@@ -3570,11 +3570,11 @@ p.about-author-paragraph:hover a{
 }
 
 .shop-buy .red-btn-news {
-    background: rgba(242,0,0, 0.8);
+    background: #1d3d67;;
 }
 
 .buttons-shadow:hover .red-btn-news{
-    background: rgba(242,0,0, 1);
+    background: #1d3d67;
     -webkit-transition: all 0.5s ease-in-out;
     -moz-transition: all 0.5s ease-in-out;
     -o-transition: all 0.5s ease-in-out;
@@ -3780,12 +3780,12 @@ p.about-author-paragraph:hover a{
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background-color: rgba(242,0,0, 0.8);
+    background-color: #1d3d67;;
     padding: 5.5% 4.5%;
 }
 
 .main-causes .img-link span:hover i.icon-eye{
-    background-color: rgba(242,0,0, 1);
+    background-color: #1d3d67;
     -webkit-transition: background-color 2s ease;
     -moz-transition: background-color 2s ease;
     -o-transition: background-color 2s ease;
@@ -4016,12 +4016,12 @@ p.about-author-paragraph:hover a{
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background-color: rgba(242,0,0, 0.8);
+    background-color: #1d3d67;;
     padding: 5% 4.5%;
 }
 
 .main-events .img-link span:hover i.icon-eye{
-    background-color: rgba(242,0,0, 1);
+    background-color: #1d3d67;
     -webkit-transition: background-color 2s ease;
     -moz-transition: background-color 2s ease;
     -o-transition: background-color 2s ease;
@@ -4178,12 +4178,12 @@ p.about-author-paragraph:hover a{
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background-color: rgba(242,0,0, 0.8);
+    background-color: #1d3d67;;
     padding: 5% 6% 7%;
 }
 
 .main-gallery .img-link span:hover i.icon-eye{
-    background-color: rgba(242,0,0, 1);
+    background-color: #1d3d67;
     -webkit-transition: background-color 2s ease;
     -moz-transition: background-color 2s ease;
     -o-transition: background-color 2s ease;
