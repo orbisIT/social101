@@ -72,7 +72,7 @@ Copyright: (C) 2016
 [Color codes]
 
 # Black (text): #060606
-# Red (headings, links): #63BCDC
+# Red (headings, links): #132236
 
 [Typography]
 
@@ -217,17 +217,17 @@ img {
 
 .gb-list .icon-comment:before {
     content: "\e805";
-    color: #63BCDC;
+    color: #132236;
 }
 
 .gb-list .icon-heart:before {
     content: "\e80a";
-    color: #63BCDC;
+    color: #132236;
 }
 
 .gb-list .icon-eye:before {
     content: "\e80b";
-    color: #63BCDC;
+    color: #132236;
 }
 
 .gb-list {
@@ -239,11 +239,11 @@ img {
 .gb-list li {
     float: left;
     margin-right: 5px;
-    color: #63BCDC;
+    color: #132236;
 }
 
 .gb-list li a {
-    color: #63BCDC;
+    color: #132236;
     letter-spacing: -0.2px;
 }
 
@@ -289,7 +289,7 @@ img {
 .title-white:hover,
 .title-white:active,
 .title-white:focus{
-    color:#63BCDC;
+    color:#132236;
 }
 
 .height100 {
@@ -324,7 +324,7 @@ input {
 }
 
 .red-btn {
-    background: #63BCDC;
+    background: #132236;
     display: inline-block;
     text-align: center;
     font-weight: 600;
@@ -339,7 +339,7 @@ input {
 .red-btn-5:hover,
 .red-btn-form:hover{
     background: #fff;
-    color:#63BCDC;
+    color:#132236;
 }
 
 .person-content h3 {
@@ -462,19 +462,19 @@ iframe{
 }
 
 .navbar-default ul li a:hover {
-    border-bottom: 2px solid #63BCDC;
+    border-bottom: 2px solid #132236;
     padding-bottom: 4px;
 }
 
 .navbar-default ul li.active a {
-    color: #63BCDC;
+    color: #132236;
     background-color: transparent;
-    border-bottom: 2px solid #63BCDC;
+    border-bottom: 2px solid #132236;
     padding-bottom: 4px
 }
 
 .navbar-default ul li.active a:after {
-    color: #63BCDC;
+    color: #132236;
     width: 80%;
     padding-bottom: 4px
 }
@@ -486,7 +486,7 @@ iframe{
 .navbar-default .navbar-nav > li > a:focus,
 .navbar-default .navbar-nav > li > a:hover{
     background-color: transparent;
-    color: #63BCDC;
+    color: #132236;
 }
 
 .last {
@@ -498,7 +498,7 @@ iframe{
 #navbar-menu .nav .open>a:hover,
 #navbar-menu .nav .open>a:active,
 #navbar-menu .nav .open>a:visited{
-    border-color: #63BCDC;
+    border-color: #132236;
 }
 
 .dropdown-menu{
@@ -530,7 +530,7 @@ iframe{
 .navbar-default .navbar-nav>.open>a:hover,
 .navbar-default ul li.active ul a:hover,
 .navbar-default ul li.active ul a:focus{
-    color: #63BCDC;
+    color: #132236;
     background-color: transparent;
 }
 
@@ -554,7 +554,7 @@ iframe{
 }
 
 .navbar-default ul>li>ul a:hover{
-    color: #63BCDC;
+    color: #132236;
 }
 
 /* =======================  6. Footer  ====================== */
@@ -694,7 +694,7 @@ iframe{
 }
 
 .news-h a:hover{
-    color: #63BCDC;
+    color: #132236;
 }
 
 .date {
@@ -756,7 +756,7 @@ footer:-ms-input-placeholder {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background-color: #63BCDC;
+    background-color: #132236;
 }
 
 .top-page{
@@ -784,7 +784,7 @@ footer:-ms-input-placeholder {
 }
 
 .icon-up-open-big:hover:before{
-    color:#63BCDC;
+    color:#132236;
 }
 
 /* """"""""""""""""""""""""""""""""""""   7. Homepage   """"""""""""""""""""""""""""""""""  */
@@ -1049,7 +1049,7 @@ footer:-ms-input-placeholder {
 }
 
 .events-title {
-    background-color: #63BCDC;
+    background-color: #132236;
     color: white;
     font-size: 15px;
     margin-left: -15px;
@@ -1073,12 +1073,12 @@ footer:-ms-input-placeholder {
 
 .icon-clock:before {
     content: "\e800";
-    color: #63BCDC;
+    color: #132236;
 }
 
 .gb-list .icon-location-1:before{
     content: "\e803";
-    color: #63BCDC;
+    color: #132236;
 }
 
 a.white {
@@ -1091,12 +1091,12 @@ a.white {
 
 a.white:hover,
 a.white:active {
-    color: #63BCDC;
+    color: #132236;
 }
 
 /* ===============  7.5. Number  =============== */
 .number {
-    background-color: #63BCDC;
+    background-color: #132236;
     color: #fefefe;
     padding: 65px 0 61px;
     font-size: 52px;
@@ -1640,7 +1640,7 @@ a.white:active {
         border-radius: 50%;
         background-color: #fff;
         padding: 8px 10px;
-        color: #63BCDC;
+        color: #132236;
     }
 
 
@@ -1779,7 +1779,7 @@ a.white:active {
     .navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
-        color: #63BCDC;
+        color: #132236;
         background-color: transparent;
         transition: color 0.5s ease-in-out;
     }
@@ -2254,7 +2254,7 @@ a.white:active {
 }
 
 .carousel-control:focus, .carousel-control:hover {
-    background-color: #63BCDC;
+    background-color: #132236;
 }
 
 #myCarousel .icon-left-open-mini:before {
@@ -2344,7 +2344,7 @@ a.white:active {
 
 .blockquote-cont span{
     font-size: 96px;
-    color: #63BCDC;
+    color: #132236;
     position: absolute;
     top: 0;
     left: 0;
@@ -2392,7 +2392,7 @@ blockquote{
     content:"\e816";
     margin-top: -2px;
     margin-right: 10px;
-    color: #63BCDC;
+    color: #132236;
 }
 
 .link-title h4{
@@ -2420,7 +2420,7 @@ blockquote{
 
 .pagination-1 li.active a,
 .pagination-1 li a:hover{
-    color: #63BCDC;
+    color: #132236;
 }
 
 .pagination-1 .icon-right-open-mini:before {
@@ -2459,7 +2459,7 @@ blockquote{
 }
 
 .categories a:hover {
-    color: #63BCDC;
+    color: #132236;
 }
 
 .categories ul li:before {
@@ -2468,7 +2468,7 @@ blockquote{
     position: absolute;
     top: 7px;
     left: -12px;
-    background-color: #63BCDC;
+    background-color: #132236;
     width: 4px;
     height: 4px;
     -moz-border-radius: 50%;
@@ -2571,7 +2571,7 @@ table{
     position: relative;
     bottom: 0;
     left: 8px;
-    background-color: #63BCDC;
+    background-color: #132236;
     width: 3px;
     height: 3px;
     -moz-border-radius: 50%;
@@ -2580,7 +2580,7 @@ table{
 }
 
 .today{
-    background-color: #63BCDC;
+    background-color: #132236;
 }
 
 .calendar .prev,
@@ -2636,7 +2636,7 @@ table{
 
 .tags .active.buttons,
 .tags .buttons:hover{
-    background-color: #63BCDC;
+    background-color: #132236;
 }
 
 /* =============== 9.6. Instagram ================= */
@@ -3016,7 +3016,7 @@ img[alt="children-1"]{
 }
 
 .tags-group a:hover{
-    color: #63BCDC;
+    color: #132236;
 }
 
 .post-single strong {
@@ -3056,7 +3056,7 @@ p.about-author-paragraph{
 }
 
 p.about-author-paragraph:hover a{
-    color: #63BCDC;
+    color: #132236;
 }
 
 .about-author-paragraph a{
@@ -3110,7 +3110,7 @@ p.about-author-paragraph:hover a{
 }
 
 .time-reply span a{
-    color: #63BCDC;
+    color: #132236;
 }
 
 .time-reply span a:hover{
@@ -3598,7 +3598,7 @@ p.about-author-paragraph:hover a{
 
 .about-product ul li a:hover,
 .about-product h4 a:hover{
-    color: #63BCDC;
+    color: #132236;
 }
 
 .about-product p{
@@ -3611,7 +3611,7 @@ p.about-author-paragraph:hover a{
 }
 
 .about-product h4:hover{
-    color: #63BCDC;
+    color: #132236;
 }
 
 .about-product span{
@@ -3700,12 +3700,12 @@ p.about-author-paragraph:hover a{
 
 .tabs li:hover a{
     color: #fff;
-    background: #63BCDC;
+    background: #132236;
 }
 
 .tabs li.active a{
     color: #fff;
-    background: #63BCDC;
+    background: #132236;
 }
 
 .mb-causes{
@@ -3905,7 +3905,7 @@ p.about-author-paragraph:hover a{
 }
 
 .form-features input[type="submit"]{
-    background: #63BCDC;
+    background: #132236;
     color: #fff;
     font-size: 16px;
     font-weight: 600;
@@ -4248,7 +4248,7 @@ p.about-author-paragraph:hover a{
 .main-contact .icon-facebook:hover:before,
 .main-contact .icon-pinterest:hover:before,
 .main-contact .icon-vimeo:hover:before {
-    color: #63BCDC;
+    color: #132236;
 }
 
 .overlay{
@@ -4358,7 +4358,7 @@ p.about-author-paragraph:hover a{
 }
 
 .form-login .message a:hover {
-    color: #63BCDC;
+    color: #132236;
     text-decoration: none;
 }
 
@@ -4450,7 +4450,7 @@ p.about-author-paragraph:hover a{
 }
 
 .prev-next h3 a:hover{
-    color: #63BCDC;
+    color: #132236;
 }
 
 .prev-causes{
@@ -4670,7 +4670,7 @@ p.about-author-paragraph:hover a{
 }
 
 .reviews .time-reply span a:hover{
-    color: #63BCDC;
+    color: #132236;
 }
 
 .reviews .time-reply .name{
