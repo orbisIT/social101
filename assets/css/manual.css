@@ -843,7 +843,7 @@ footer:-ms-input-placeholder {
 }
 
 .slide_1 {
-    background-image: url("http://via.placeholder.com/1920x1280");
+    background-image:url("assets/images/LIA1/2.png");
     background-repeat: no-repeat;
     background-position: 2% 39%;
 }
@@ -858,6 +858,12 @@ footer:-ms-input-placeholder {
     background-image: url("http://via.placeholder.com/1920x1280");
     background-repeat: no-repeat;
     background-position: 2% 73%;
+}
+
+.slide_4 {
+    background-image: url("http://via.placeholder.com/1920x1280");
+    background-repeat: no-repeat;
+    background-position: 2% 90%;
 }
 
 .item-content {
